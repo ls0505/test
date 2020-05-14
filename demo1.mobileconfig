@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			iVBORw0KGgoAAAANSUhEUgAAB1UAAAOBAQAAAACB8sTQAAAAAXNS
+			R0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+			AcdvqGQAAAOcSURBVHja7c9BAQAwCACh9U/sT3uwowFvvzFdSV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1d
+			TV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1N
+			XU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dTV1NXU1dSTsHHUpL
+			G3UfdlgAAAAASUVORK5CYII=
+			</data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>猫咪官网</string>
+			<key>PayloadDescription</key>
+			<string>Adds a Web Clip.</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip (猫咪官网)</string>
+			<key>PayloadIdentifier</key>
+			<string>.webclip1</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>429BD358-EE7C-49CB-9B94-FFDD41CB309C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>http://www.xmmbie.xyz</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>描述文件描述。</string>
+	<key>PayloadDisplayName</key>
+	<string>demo1</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F068B314-C274-4630-927A-06905E368B82</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
